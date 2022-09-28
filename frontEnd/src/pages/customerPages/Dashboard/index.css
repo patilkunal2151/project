@@ -1,0 +1,98 @@
+.dbButton1{
+    width: 240px;
+    height: 90px;
+    margin: 25px;
+    border: 0.5px solid blanchedalmond;
+    border-radius: 5px;
+    background-image: linear-gradient(to top right, #6610f2, #007bff, rgb(0, 179, 255), rgb(0, 179, 255));
+    color: white;
+    font-weight: 600;
+}
+.dbButton1:hover {
+    font-weight: 700;
+}
+.dbButton2{
+    width: 240px;
+    height: 90px;
+    margin: 25px;
+    border: 0.5px solid blanchedalmond;
+    border-radius: 5px;
+    background-image: linear-gradient(to top right, #17a2b8, rgb(149, 232, 16), rgb(149, 232, 16));
+    color: white;
+    font-weight: 600;
+}
+.dbButton2:hover {
+    font-weight: 700;
+}
+.dbButton3{
+    width: 240px;
+    height: 90px;
+    margin: 25px;
+    border: 0.5px solid blanchedalmond;
+    border-radius: 5px;
+    background-image: linear-gradient(to top right, #fd7e14, rgb(230, 220, 18), rgb(230, 220, 18));
+    color: white;
+    font-weight: 600;
+}
+.dbButton3:hover {
+    font-weight: 700;
+}
+.dbButton4{
+    width: 240px;
+    height: 90px;
+    margin: 25px;
+    border: 0.5px solid blanchedalmond;
+    border-radius: 5px;
+    background-image: linear-gradient(to top right, #6f42c1, #e83e8c, rgb(223, 17, 96), rgb(223, 17, 96));
+    color: white;
+    font-weight: 600;
+}
+.dbButton4:hover {
+    font-weight: 700;
+}
+.content {
+    border: 0.1px solid lemonchiffon;
+    border-radius: 10px;
+    background-image: linear-gradient(to top right, rgb(199, 195, 193), white, rgb(195, 224, 195));
+    margin-bottom: 25px;
+    opacity: 0.75;
+}
+.writeReview {
+    border: 1px solid lightskyblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 15px;
+   
+}
+.writeReview h3{
+    font-size: xx-large;
+    font-weight: 600;
+    color: black;
+}
+.addReview {
+    margin-left: 25px;
+    border: none;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    color: white;
+    font-size: xx-large;
+    background-image: linear-gradient(to top right, red, yellow, green, lightblue);
+}
+.addReview:hover {
+    font-weight: 800;
+    font-size: xxx-large;
+    width: 60px;
+    height: 60px;
+}
+.heading{
+    font-size: x-large;
+    padding: 25px;
+    background-image: linear-gradient(to top right, lightskyblue, rgb(247, 219, 224), rgb(207, 230, 207));
+}
+.myReviews {
+    margin: 3px;
+    border: 1px solid lightskyblue;
+    border-radius: 10px;
+    padding: 10px;
+}

@@ -1,0 +1,23 @@
+.myVehicle {
+    text-align: center;
+}
+
+img {
+    width: 85%;
+}
+p {
+    color: black;
+    font-size: large;
+}
+
+span {
+    color: red;
+    font-size: xx-large;
+    font-weight: 800;
+}
+
+a {
+    color: blue;
+    font-size: x-large;
+    font-weight: 600;
+}

@@ -1,0 +1,57 @@
+.container {
+    text-align: center;
+}
+.imgText1{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: xxx-large;
+    font-weight: bold;
+    font-family:'Roboto', Times, serif;
+    /* outline: 1px solid white; */
+    color: gold;
+}
+.button {
+    background-color:white;
+    width: 150px;
+    height: 50px;
+    color: black;
+    border: none;
+    margin: 10px;
+}
+.bigButtons p {
+    background-color: transparent;
+  font-size: xx-large;
+  font-weight: bold;
+}
+.bigbutton:hover {
+    transform: scale(110%, 110%);
+    
+}
+
+table {
+    width: 50%;
+    margin: 20px;
+    background-color: #fff;
+    opacity:80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+   
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
+}
+
+thead {
+    border: 1px solid black;
+}
+
+.myselect {
+    border: none;
+    width: 25vw;
+}
+

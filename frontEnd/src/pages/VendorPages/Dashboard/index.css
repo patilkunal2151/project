@@ -1,0 +1,91 @@
+.dbButton1{
+    width: 240px;
+    height: 90px;
+    margin: 25px;
+    border: 0.5px solid blanchedalmond;
+    border-radius: 5px;
+    background-image: linear-gradient(to top right, #6610f2, #007bff);
+    color: white;
+    font-weight: 600;
+}
+.dbButton1:hover {
+    font-weight: 700;
+}
+.dbButton2{
+    width: 240px;
+    height: 90px;
+    margin: 25px;
+    border: 0.5px solid blanchedalmond;
+    border-radius: 5px;
+    background-image: linear-gradient(to top right, #17a2b8, #28a745);
+    color: white;
+    font-weight: 600;
+}
+.dbButton2:hover {
+    font-weight: 700;
+}
+.dbButton3{
+    width: 240px;
+    height: 90px;
+    margin: 25px;
+    border: 0.5px solid blanchedalmond;
+    border-radius: 5px;
+    background-image: linear-gradient(to top right, #fd7e14, #dc3545);
+    color: white;
+    font-weight: 600;
+}
+.dbButton3:hover {
+    font-weight: 700;
+}
+.dbButton4{
+    width: 240px;
+    height: 90px;
+    margin: 25px;
+    border: 0.5px solid blanchedalmond;
+    border-radius: 5px;
+    background-image: linear-gradient(to top right, #6f42c1, #e83e8c);
+    color: white;
+    font-weight: 600;
+}
+.dbButton4:hover {
+    font-weight: 700;
+}
+.content {
+    border: 0.1px solid lemonchiffon;
+    border-radius: 10px;
+    background-image: linear-gradient(to top right, rgb(195, 224, 195), white, rgb(195, 224, 195));
+}
+.writeReview {
+    border: 1px solid lightskyblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 15px;
+   
+}
+.writeReview h3{
+    font-size: xx-large;
+    font-weight: 600;
+    color: black;
+}
+.addReview {
+    margin-left: 25px;
+    border: none;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    color: white;
+    font-size: xx-large;
+    background-image: linear-gradient(to top right, red, yellow, green, lightblue);
+}
+.addReview:hover {
+    font-weight: 800;
+    font-size: xxx-large;
+    width: 60px;
+    height: 60px;
+}
+.myReviews {
+    margin: 3px;
+    border: 1px solid lightskyblue;
+    border-radius: 10px;
+    padding: 10px;
+}

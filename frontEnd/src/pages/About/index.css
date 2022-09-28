@@ -1,0 +1,63 @@
+.mission{
+    background-color: #032d41;
+    width: 40vw;
+    height: 25vh;
+    text-align: left;
+    border-radius: 15px;
+    margin: 25px;
+}
+
+.fv{
+    background-color: #032d41;
+    width: 40vw;
+    height: 30vh;
+    text-align: left;
+    border-radius: 15px;
+    margin: 25px;
+}
+.of{
+    background-color: #032d41;
+    width: 40vw;
+    height: 30vh;
+    text-align: left;
+    border-radius: 15px;
+    margin: 25px;
+}
+.ta{
+    background-color: #032d41;
+    width: 40vw;
+    height: 30vh;
+    text-align: left;
+    border-radius: 15px;
+    margin: 25px;
+    color: white;
+}
+.head{
+    margin: 10px;
+    padding: 10px;
+    font-weight: bolder;
+    font-size: larger;
+    color: white;
+}
+.white{
+    background-color: rgb(208, 184, 184);
+    width: 40vw;
+    height: 25vh;
+    text-align: left;
+    border-radius: 15px;
+    margin: 25px;
+}
+.purple{
+    background-color: rgb(190, 51, 174);
+    width: 40vw;
+    height: 25vh;
+    text-align: left;
+    border-radius: 15px;
+    margin: 25px;
+}
+.text{
+    margin: 10px;
+    padding: 10px;
+    font-size: larger;
+    color: white;
+}

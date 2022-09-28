@@ -1,0 +1,36 @@
+.coverPhoto{
+    position: relative;
+    text-align: center;
+    color: azure;
+}
+.cover{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 70vw;
+    height: 65vh;
+}
+.imgText{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    font-weight: bold;
+    color: chartreuse;
+    font-family:'Roboto', Times, serif;
+    /* outline: 5px solid white; */
+}
+.features{
+    margin: 20px;
+    height: 24vh;
+    background-color: rgb(184, 182, 182);
+    opacity: 0.75;
+    border-radius: 20px;
+    text-align: center;
+}
+.number{
+    margin: 15px;
+    font-size: xx-large;
+    color: mediumspringgreen;
+    margin-top: 50px;
+}
